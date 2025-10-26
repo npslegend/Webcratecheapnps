@@ -1,0 +1,12 @@
+# robots.txt for webcratecheapnps
+# Mengatur halaman mana yang boleh diindeks oleh mesin pencari
+
+User-agent: *
+Allow: /
+
+# Lokasi sitemap agar mesin pencari mudah menemukan halaman website
+Sitemap: https://webcratecheapnps-yz6x.vercel.app/sitemap.xml
+
+# Halaman yang tidak ingin ditampilkan di Google (opsional)
+Disallow: /admin/
+Disallow: /private/
